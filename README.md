@@ -1,9 +1,9 @@
-# aws-connect-angularspa-to-lambda-apigw 🐳
+# aws-connect-angularspa-to-lambda-apigw-cors 🐳
 
-![Stars](https://img.shields.io/github/stars/tquangdo/aws-connect-angularspa-to-lambda-apigw?color=f05340)
-![Issues](https://img.shields.io/github/issues/tquangdo/aws-connect-angularspa-to-lambda-apigw?color=f05340)
-![Forks](https://img.shields.io/github/forks/tquangdo/aws-connect-angularspa-to-lambda-apigw?color=f05340)
-[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-connect-angularspa-to-lambda-apigw/issues/new)
+![Stars](https://img.shields.io/github/stars/tquangdo/aws-connect-angularspa-to-lambda-apigw-cors?color=f05340)
+![Issues](https://img.shields.io/github/issues/tquangdo/aws-connect-angularspa-to-lambda-apigw-cors?color=f05340)
+![Forks](https://img.shields.io/github/forks/tquangdo/aws-connect-angularspa-to-lambda-apigw-cors?color=f05340)
+[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-connect-angularspa-to-lambda-apigw-cors/issues/new)
 
 ## reference
 [youtube](https://www.youtube.com/watch?v=eracVWTSqLs)
