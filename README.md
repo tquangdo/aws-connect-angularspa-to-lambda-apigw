@@ -76,7 +76,8 @@ fetchData(): Observable<TopicsDataPoint[]> {
     }
 ]
 ```
-- click `Resources` > click `/simple-test` > Actions=`Enable CORS` > click button
+- click `Resources` > click `/simple-test` > Actions=`Enable CORS` > click button `Enable CORS ...`
+![cors](screenshots/cors.png)
 - Actions=`Deploy API` > Stage name=`dev`
 
 ## result
